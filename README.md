@@ -31,12 +31,13 @@ If you are in danger or experiencing a mental health emergency, please reach out
 
 ``` lua
 ├── mindease.py
-├── .env
+├── .env (not-uploaded)
 ├── requirements.txt
+├── .gitignore 
 ├── README.md
-└── logs/
-    ├── mindease.db 
-    └── mindease.log
+└── logs/ 
+    ├── mindease.db(auto-created) 
+    └── mindease.log(auto-created)
 ```
 
 ---
