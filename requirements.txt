@@ -1,0 +1,5 @@
+nltk
+python-dotenv
+openai
+bcrypt
+rich
